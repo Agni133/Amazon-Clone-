@@ -1,4 +1,4 @@
-# Amazon-Clone-
+# Amazon-UI CLONE -
 Developed a simple HTML and CSS framework that mirrors the structure of
 Amazon's website, achieving a layout closely resembling the original
 design.
